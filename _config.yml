@@ -11,8 +11,8 @@ email: ruby@mountainsandmilkshakes.com
 description: > # this means to ignore newlines until "baseurl:"
   We enjoy hiking in the mountains and drinking milkshakes afterward.
   Come for the blog, stay for the pictures of our dog.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mountainsandmilkshakes.com" # the base hostname & protocol for your site
+baseurl: "/mountainsandmilkshakes" # the subpath of your site, e.g. /blog
+url: "http://www.jasonlemoine.com" # the base hostname & protocol for your site
 twitter_username: i_shot_first
 github_username:  ishotfirst
 
