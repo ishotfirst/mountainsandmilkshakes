@@ -1,2 +1,1 @@
-# mountainsandmilkshakes.github.io
-Mountains and Milkshakes blog
+# Mountains and Milkshakes Blog
